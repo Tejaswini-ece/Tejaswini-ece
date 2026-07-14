@@ -152,7 +152,7 @@ Developed a machine learning model using **Python and Scikit-learn** to predict 
 - 🔌 Embedded Systems – Internshala
 - 📡 Digital Design with Verilog – NPTEL
 - 🌐 Responsive Web Design – freeCodeCamp
-- 🇩🇪 German Language – A1 Level
+  
 
 ---
 
